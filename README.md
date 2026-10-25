@@ -62,7 +62,3 @@ Recall is a primary metric because missed churners represent lost chances to int
 ## Project scope and next steps
 
 The baseline uses a static sample, not a true incoming stream. Planned later work: simulate input batches, log predictions, track input and prediction-distribution changes, and display performance in Streamlit. Any relabeling-based concept drift demonstration will be identified as synthetic. Decision Trees and Random Forests do not update automatically after training.
-
-## Group contributions
-
-Each group member should make **their own commit using their own GitHub account** so the repository's commit history demonstrates participation. Assign actual names/roles in the project submission or task matrix; do not claim commits before they're made.
